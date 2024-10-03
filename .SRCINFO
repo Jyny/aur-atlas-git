@@ -1,6 +1,6 @@
 pkgbase = atlas-git
 	pkgdesc = A modern tool for managing database schemas
-	pkgver = 0.25.0
+	pkgver = 0.26.0
 	pkgrel = 1
 	url = https://github.com/ariga/atlas
 	arch = x86_64
@@ -8,8 +8,8 @@ pkgbase = atlas-git
 	makedepends = go
 	provides = atlas
 	conflicts = atlas
-	source = atlas-0.25.0.tar.gz::https://github.com/ariga/atlas/archive/v0.25.0.tar.gz
-	sha256sums = fbb385185c9c1576c2350d483bc624409904b8ee63db0950b84a4115e991bfd8
-	b2sums = 698c53b5f01200c397ee2f613d90735c474dbf243e6e48d6ad7bc625da29054dfc87666e74e4754ba3371fef6e40bf175e863b6e0c996b0cf2038b4cce882291
+	source = atlas-0.26.0.tar.gz::https://github.com/ariga/atlas/archive/v0.26.0.tar.gz
+	sha256sums = 00790c217a0b09a2bd857f3d277b289707c85cda7a73f88efbe794e697344fbd
+	b2sums = 1308838cfc46005bd88fe1bf4e8c433e2ef3b0d4e93280e3f99a3501f2f946b7a6c3f02582b3ad57e6358320250e589e8e30ebbbc56350c5f7791f13d5b39d6a
 
 pkgname = atlas-git
